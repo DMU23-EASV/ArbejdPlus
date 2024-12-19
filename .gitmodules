@@ -1,0 +1,9 @@
+[submodule "Kairos-Admin-Client"]
+	path = Kairos-Admin-Client
+	url = https://github.com/DMU23-EASV/Kairos-Admin-Client
+[submodule "Kairos-arbejdplus-react"]
+	path = Kairos-arbejdplus-react
+	url = https://github.com/DMU23-EASV/Kairos-arbejdplus-react
+[submodule "Kairos-web-api"]
+	path = Kairos-web-api
+	url = https://github.com/DMU23-EASV/Kairos-web-api
